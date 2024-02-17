@@ -2,6 +2,11 @@
 Cutting tip of Stealthburner-CW2 servo steering gear
 
 新版Happy-Hare可根据官方教程修改 https://github.com/moggieuk/Happy-Hare 进行修改
+
+
+https://github.com/tdft/Stealthburner-CW2-Stealthburner-CW2-servo-cut-tip/assets/52322373/de4dca90-7167-4381-bc9b-4ff3145389e5
+
+
 具体测试见哔哩哔哩【voron sb头舵机切刀测试】https://www.bilibili.com/video/BV19A4m157Jf?vd_source=c7e963c712fcfe6c78b672060f20e54b
 
 本人对于所有事故不承担任何责任（包括但不限于触电、电器损坏等）
