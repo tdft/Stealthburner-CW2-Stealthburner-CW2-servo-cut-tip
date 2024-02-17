@@ -1,7 +1,9 @@
 # Stealthburner-CW2-Stealthburner-CW2-servo-cut-tip
 Cutting tip of Stealthburner-CW2 servo steering gear
 
-具体可根据新版 https://github.com/moggieuk/Happy-Hare 进行修改
+新版Happy-Hare可根据官方教程修改 https://github.com/moggieuk/Happy-Hare 进行修改
+具体测试见哔哩哔哩【voron sb头舵机切刀测试】https://www.bilibili.com/video/BV19A4m157Jf?vd_source=c7e963c712fcfe6c78b672060f20e54b
+
 本人对于所有事故不承担任何责任（包括但不限于触电、电器损坏等）
 安装模块前务必断电拆机以免发生安全事故。
 MG90S舵机待验证！！！
