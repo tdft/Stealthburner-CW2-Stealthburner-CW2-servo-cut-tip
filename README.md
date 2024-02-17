@@ -1,33 +1,49 @@
 # Stealthburner-CW2-Stealthburner-CW2-servo-cut-tip
 Cutting tip of Stealthburner-CW2 servo steering gear
 
+bilibili UID:450728302
+
+by 3D造物主
+
+![1708151775972fbb961577cd52aac32a4a684aa6e033fde65](https://github.com/tdft/Stealthburner-CW2-Stealthburner-CW2-servo-cut-tip/assets/52322373/c964d3c7-3fd0-443d-9fc7-fa530b00edc1)
+
 新版Happy-Hare可根据官方教程修改 https://github.com/moggieuk/Happy-Hare 进行修改
 
+具体测试见哔哩哔哩【voron sb头舵机切刀测试】https://www.bilibili.com/video/BV19A4m157Jf?vd_source=c7e963c712fcfe6c78b672060f20e54b
 
 https://github.com/tdft/Stealthburner-CW2-Stealthburner-CW2-servo-cut-tip/assets/52322373/de4dca90-7167-4381-bc9b-4ff3145389e5
 
 
-具体测试见哔哩哔哩【voron sb头舵机切刀测试】https://www.bilibili.com/video/BV19A4m157Jf?vd_source=c7e963c712fcfe6c78b672060f20e54b
 
 本人对于所有事故不承担任何责任（包括但不限于触电、电器损坏等）
+
 安装模块前务必断电拆机以免发生安全事故。
-MG90S舵机待验证！！！
-MG90S舵机待验证！！！
+
 MG90S舵机待验证！！！
 
-bilibili UID:450728302
-by 3D造物主
+MG90S舵机待验证！！！
+
+MG90S舵机待验证！！！
 
 安装前准备：
+
 M3热熔螺母3*4*5若干
+
 M3*12螺丝一颗
+
 ES08MD舵机*1（MG90S）
+
 电烙铁
+
 cw2螺丝套装
 
 舵机线预留100mm+
+
 调试前拆掉切刀撞块，以免损坏部件
+![IMG_20240216_155934](https://github.com/tdft/Stealthburner-CW2-Stealthburner-CW2-servo-cut-tip/assets/52322373/cd3275af-8d06-4722-98c8-d851bb7323f9)
+
 mmu/base/mmu_filametrix.cfg内的如下需根据机器大小、清理位置进行修改，仅参考
+
     ######################################
     
     #这应设置为从内部喷嘴尖端到切割刀片的距离，并用于上的计算
